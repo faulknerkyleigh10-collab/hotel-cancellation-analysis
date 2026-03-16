@@ -36,5 +36,5 @@ Based on the analysis and model results, the following actions are recommended:
 - Google Colab
 
 
-![Description of chart](hotel chart.png)
+
 
