@@ -35,6 +35,8 @@ Based on the analysis and model results, the following actions are recommended:
 - Seaborn
 - Google Colab
 
+![Cancellation Rate by Deposit Type](cancellation_deposit_chart.png)
+
 
 
 
